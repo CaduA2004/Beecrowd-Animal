@@ -1,6 +1,7 @@
 using System; 
 
 class URI {
+
     static void Main(string[] args) { 
 
         string palavra1 = Console.ReadLine();
@@ -57,5 +58,6 @@ class URI {
                 }
             }
         }
+
     }
 }
